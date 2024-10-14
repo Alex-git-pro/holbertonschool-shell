@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello.file
+chown -r  betty hello.file
