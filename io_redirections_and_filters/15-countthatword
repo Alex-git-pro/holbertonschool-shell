@@ -1,1 +1,2 @@
 #!/bin/bash
+grep -o '/' <<< "/home/usr/bin/test" | wc -l
