@@ -1,2 +1,2 @@
 #!/bin/bash
-set name='BEST'
+set | grep BEST | grep -v
